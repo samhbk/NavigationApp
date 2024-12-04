@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>GMSApiKey</key>
-    <string>AIzaSyD2pzUGP1Yx-5Fcpfeu2cqt01pJNpqPPTQ</string>
+    <string></string>
     <key>NSLocationWhenInUseUsageDescription</key>
     <string>We need your location to show the route.</string>
 	<key>UIApplicationSceneManifest</key>
